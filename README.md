@@ -30,7 +30,7 @@ card-wars/
 ├── index.html       # Main game page
 ├── style.css        # Game styling
 ├── script.js        # Game logic
-├── assets/          # Images (optional)
+├── LICENSE          # License
 └── README.md        # This file
 
 ```

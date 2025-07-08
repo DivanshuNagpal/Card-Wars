@@ -16,7 +16,7 @@
 1. Download or clone the repository:
 ```
 
-git clone [https://github.com/DivanshuNagpal/Card-Wars.git](https://github.com/DivanshuNagpal/Card-Wars.git)
+git clone [https://github.com/DivanshuNagpal/Card-Wars.git]
 
 ```
 
